@@ -53,7 +53,7 @@
 		"@micro-stacks/svelte": "^1.0.6",
 		"@noble/secp256k1": "^1.7.1",
 		"@scure/base": "^1.1.1",
-		"@scure/bip32": "^1.1.0",
+		"@scure/bip32": "^1.1.5",
 		"assert": "^2.0.0",
 		"big-integer": "^1.6.51",
 		"bip32": "^4.0.0",
